@@ -1,0 +1,32 @@
+Last login: Sun Feb 14 17:52:30 on ttys000
+-zsh
+hasegawakeisuke@MBAK ~ % -zsh
+zsh: command not found: -zsh
+hasegawakeisuke@MBAK ~ % cd /Users/hasegawakeisuke/Documents/portfolio/web\ VR 
+hasegawakeisuke@MBAK web VR % npm i browser-sync
+npm WARN saveError ENOENT: no such file or directory, open '/Users/hasegawakeisuke/package.json'
+npm WARN enoent ENOENT: no such file or directory, open '/Users/hasegawakeisuke/package.json'
+npm WARN hasegawakeisuke No description
+npm WARN hasegawakeisuke No repository field.
+npm WARN hasegawakeisuke No README data
+npm WARN hasegawakeisuke No license field.
+
++ browser-sync@2.26.14
+updated 1 package and audited 326 packages in 1.988s
+
+5 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+hasegawakeisuke@MBAK web VR % browser-sync start --server --https true
+[Browsersync] Access URLs:
+ ---------------------------------------
+       Local: https://localhost:3000
+    External: https://192.168.179.3:3000
+ ---------------------------------------
+          UI: http://localhost:3001
+ UI External: http://localhost:3001
+ ---------------------------------------
+[Browsersync] Serving files from: ./
+
