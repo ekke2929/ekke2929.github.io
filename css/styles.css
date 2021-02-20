@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background: #f59a00;
+  background: #f5c500;
   color: #fff;
   text-align: center;
   padding-top: 64px;
@@ -25,7 +25,7 @@ header img {
 .btn {
   text-decoration: none;
   background: #fff;
-  color: #f59a00;
+  color: #f5c500;
   display: block;
   width: 140px;
   line-height: 44px;
@@ -63,7 +63,7 @@ header img {
 }
 
 .members {
-  background: #f2f2f3;
+  background: #bfbfbe;
 }
 
 .members > h1 {
@@ -93,7 +93,7 @@ header img {
 }
 
 .call-to-action {
-  background: #f59a00;
+  background: #f5c500;
   color: #fff;
   text-align: center;
   padding: 64px 0;
@@ -109,8 +109,8 @@ header img {
 
 footer {
   padding: 64px 0;
-  background: #323135;
-  color: #98969c;
+  background: #2a2b2f;
+  color: #ffffff;
   text-align: center;
 }
 
